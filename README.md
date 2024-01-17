@@ -46,7 +46,7 @@ Awesome Deep Group Recommendation is a collection of SOTA, novel deep group reco
 
 #### Preference Aggregation Group Recommendation
 
-#### Score Aggregation Group Recommendation``
+#### Score Aggregation Group Recommendation
 
 [//]: # (| 2023 | **Exploring Time-aware Multi-pattern Group Venue Recommendation in LBSNs &#40;ConsRec&#41;**                                |  ACM TOIS  |                                                                             [Link]&#40;https://arxiv.org/pdf/2302.03555.pdf&#41;                                                                             |                [Link]&#40;https://github.com/FDUDSDE/WWW2023ConsRec&#41;                 |)
 [//]: # (Probabilistic Majority Rule-Based Group Recommendation)
