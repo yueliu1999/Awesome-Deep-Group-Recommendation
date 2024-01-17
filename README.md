@@ -35,18 +35,49 @@ Awesome Deep Group Recommendation is a collection of SOTA, novel deep group reco
 | 2018 | **Attentive Group Recommendation (AGREE)**                                                                            |        SIGIR         |                                                                                       [Link](http://staff.ustc.edu.cn/~hexn/papers/sigir18-groupRS.pdf)                                                                                        |      [Link](https://github.com/LianHaiMiao/Attentive-Group-Recommendation)       |
 | 2014 | **Deep Modeling of Group Preferences for Group-Based Recommendation (DLGR)**                                          |         AAAI         |                                                                                         [Link](https://ojs.aaai.org/index.php/AAAI/article/view/9007)                                                                                          |                                        -                                         |
 
-#### Traditional Model
-| Year | Title                                                        | Venue  |                            Paper                             | Code |
-|------|--------------------------------------------------------------|:------:| :----------------------------------------------------------: |:----:|
-| 2014 | **COM: a Generative Model for Group Recommendation (COM)**   | SIGKDD | [Link](https://dl.acm.org/doi/10.1145/2623330.2623616) |  -   |
-| 2012 | **Exploring personal impact for group recommendation (PIT)** |  CIKM  | [Link](https://dl.acm.org/doi/abs/10.1145/2396761.2396848) |  -   |
+[//]: # ()
+[//]: # (#### Traditional Model)
+
+[//]: # (| Year | Title                                                        | Venue  |                            Paper                             | Code |)
+
+[//]: # (|------|--------------------------------------------------------------|:------:| :----------------------------------------------------------: |:----:|)
+
+[//]: # (| 2012 | **Exploring personal impact for group recommendation &#40;PIT&#41;** |  CIKM  | [Link]&#40;https://dl.acm.org/doi/abs/10.1145/2396761.2396848&#41; |  -   |)
 
 
 ### Memory-based Group Recommendation
-
 #### Preference Aggregation Group Recommendation
 
+| Year | Title  |           Venue           |                                                                                                                                      Paper                                                                                                                                      | Code |
+|------|--------|:-------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----:|
+| 2012 | **CoFeel: Using Emotions for Social Interaction in Group Recommender Systems**   |          RecSys           |                                                                                                                                    [Link](http://ceur-ws.org/Vol-891/interfacers12_submission_4.pdf)                                                                                                                                     |  -   |
+| 2010 | **Enhancing Group Recommendation by Incorporating Social Relationship Interactions**   |           GROUP           |                                                                                                                                    [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.298.8069&rep=rep1&type=pdf)                                                                                                                                     |  -   |
+| 2010 | **Mathematical Modeling and Analysis of Product Rating with Partial Information**   |           TKDD            |                                                                                                                                    [Link](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/TKDD_product_rating.pdf)                                                                                                                                     |  -   |
+| 2009 | **Preference Aggregation in Group Recommender Systems for Committee Decision-Making** |          RecSys           |                                                                                                                                    [Link](https://dl.acm.org/doi/pdf/10.1145/1639714.1639782)                                                                                                                                     |  -   |
+| 2008 | **A group recommendation system with consideration of interactions among group members** | Expert System Application |                                                                                                 [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417407000863)                                                                                                 |  -   |
+| 2006 | **TV Program Recommendation for Multiple Viewers Based on user Profile Merging** |           UMUAI           |                                                                                                      [Link](http://www.ccm.media.kyoto-u.ac.jp/~yu/UMUAI_Zhiwen%20Yu.pdf)                                                                                                       |  -   |
+| 2005 | **Adaptive Radio: Achieving Consensus Using Negative Preferences** |           GROUP           |                                                                                                          [Link](https://www.cs.unm.edu/~dlchao/papers/chao05group.pdf)                                                                                                          |  -   |
+| 2004 | **More Than the Sum of Its Members: Challenges for Group Recommender Systems** |            AVI            |                                                                                                 [Link](https://chusable.com/archives/homepage-2017/pdf/avi04.jameson-long.pdf)                                                                                                  |  -   |
+| 1998 | **MusicFX: An Arbiter of Group Preferences for Computer Supported Collaborative Workouts** |           CSCW            |                                                                                            [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.34.516&rep=rep1&type=pdf)                                                                                            |  -   |
+
+
+
 #### Score Aggregation Group Recommendation
+
+
+| Year | Title                                                     | Venue |  Paper   | Code |
+|------|-----------------------------------------------------------|:-----:|:--------:|:----:|
+| 2015 | **ART: group recommendation approaches for automatically detected groups**   |    IJMLC   | [Link](https://link.springer.com/article/10.1007/s13042-015-0371-4) |  -   |
+| 2010 | **Group Recommendations with Rank Aggregation and Collaborative Filtering**   |  RecSys     | [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.453.2513&rep=rep1&type=pdf) |  -   |
+| 2010 | **Group-Based Recipe Recommendations: Analysis of Data Aggregation Strategies**   |    RecSys   | [Link](https://dl.acm.org/doi/10.1145/1864708.1864732) |  -   |
+| 2010 | **State-of-the-Art in Group Recommendation and New Approaches for Automatic Identification of Groups. Inform.**  | RMDE  | [Link](https://link.springer.com/chapter/10.1007/978-3-642-16089-9_1) |  -   |
+| 2009 | **Group Recommendation: Semantics and Efﬁciency**   | VLDB  | [Link](https://dl.acm.org/doi/10.14778/1687627.1687713) |  -   |
+| 2007 | **Recommendation to Groups**   |  TAW  | [Link](https://link.springer.com/chapter/10.1007/978-3-540-72079-9_20) |  -   |
+| 2005 | **Group Modeling in a Public Space: Methods, Techniques, Experiences**   | WSEAS | [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.555.1191&rep=rep1&type=pdf) |  -   |
+| 2002 | **Flytrap: Intelligent Group Music Recommendation**  |  IUI  | [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.7.5973&rep=rep1&type=pdf) |  -   |
+| 2001 | **PolyLens: A Recommender System for Groups of Users** | ECSCW | [Link](https://link.springer.com/chapter/10.1007/0-306-48019-0_11) |  -   |
+
+[//]: # (| 2014 | **COM: a Generative Model for Group Recommendation &#40;COM&#41;**   | SIGKDD | [Link]&#40;https://dl.acm.org/doi/10.1145/2623330.2623616&#41; |  -   |)
 
 [//]: # (| 2023 | **Exploring Time-aware Multi-pattern Group Venue Recommendation in LBSNs &#40;ConsRec&#41;**                                |  ACM TOIS  |                                                                             [Link]&#40;https://arxiv.org/pdf/2302.03555.pdf&#41;                                                                             |                [Link]&#40;https://github.com/FDUDSDE/WWW2023ConsRec&#41;                 |)
 [//]: # (Probabilistic Majority Rule-Based Group Recommendation)
